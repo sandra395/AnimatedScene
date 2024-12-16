@@ -1,0 +1,5 @@
+Copyright [2024] [Sandra]
+
+Permission is granted to use the code only in specific, permitted ways, 
+which are determined by the author. 
+No redistribution or modification is allowed without prior written consent.
